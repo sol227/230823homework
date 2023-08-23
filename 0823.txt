@@ -1,0 +1,10 @@
+김경석 : https://github.com/kimks1234/230823B
+정하솔 : https://github.com/sol227/230823sol
+성영은 : https://github.com/youngeunoo/pull.request.git
+임수아 : https://github.com/imsua1234/url
+조유빈 : https://github.com/you-been/you-been-url
+이성수 : https://github.com/sslee1210/230823
+
+1. HTML 기본 내용 요약 정리 README.md
+2. 다른 사람의 요약 정리 내용 포크 후
+3. 그 문서 제일 마지막에 본인의 이름과 함께 코멘트 남긴 후 풀 리퀘스트
