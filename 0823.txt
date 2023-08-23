@@ -1,9 +1,10 @@
-김경석 : https://github.com/kimks1234/230823B
+B팀)
+김경석 : https://github.com/kimks1234/homework1
 정하솔 : https://github.com/sol227/230823sol
-성영은 : https://github.com/youngeunoo/pull.request.git
-임수아 : https://github.com/imsua1234/url
-조유빈 : https://github.com/you-been/you-been-url
-이성수 : https://github.com/sslee1210/230823
+성영은 : https://github.com/youngeunoo/230823homework
+임수아 : https://github.com/imsua1234/230823_1
+조유빈 : https://github.com/you-been/230823hw
+이성수 : https://github.com/sslee1210/230823homework
 
 1. HTML 기본 내용 요약 정리 README.md
 2. 다른 사람의 요약 정리 내용 포크 후
